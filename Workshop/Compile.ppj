@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<PapyrusProject xmlns="PapyrusProject.xsd"
+    Flags="Institute_Papyrus_Flags.flg"
+    Output="C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts"
+    Optimize="true"
+    Release="true"
+    Final="true"
+>
+    <Imports>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\User</Import>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\Base</Import>
+    </Imports>
+    <Scripts>
+        <Script>Zebrina:Workshop:WorkshopDecorationHelperScript</Script>
+        <Script>Zebrina:Workshop:WorkshopDevicesMasterScript</Script>
+        <Script>Zebrina:Workshop:WorkshopHelperQuestScript</Script>
+        <Script>Zebrina:Workshop:WorkshopMasterScript</Script>
+    </Scripts>
+</PapyrusProject>

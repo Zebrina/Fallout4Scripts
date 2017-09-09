@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<PapyrusProject xmlns="PapyrusProject.xsd"
+    Flags="Institute_Papyrus_Flags.flg"
+    Output="C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts"
+    Optimize="true"
+    Release="true"
+    Final="true"
+>
+    <Imports>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\User</Import>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\F4SE</Import>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\Base</Import>
+    </Imports>
+    <Scripts>
+        <Script>Zebrina:Combat:ActorCombatInfoScript</Script>
+        <Script>Zebrina:Combat:CombatMasterScript</Script>
+    </Scripts>
+</PapyrusProject>

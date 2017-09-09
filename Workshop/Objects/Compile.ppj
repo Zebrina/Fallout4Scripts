@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<PapyrusProject xmlns="PapyrusProject.xsd"
+    Flags="Institute_Papyrus_Flags.flg"
+    Output="C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts"
+    Optimize="true"
+    Release="true"
+    Final="true"
+>
+    <Imports>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\User</Import>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\Base</Import>
+    </Imports>
+    <Scripts>
+        <Script>DLC05:DLC05WorkshopElevatorScript</Script>
+        <Script>Zebrina:Workshop:Objects:AutomaticDoorScript</Script>
+        <Script>Zebrina:Workshop:Objects:ButtonScript</Script>
+        <Script>Zebrina:Workshop:Objects:CircuitBreakerScript</Script>
+        <Script>Zebrina:Workshop:Objects:IceCoolerScript</Script>
+        <Script>Zebrina:Workshop:Objects:NighttimeSwitchScript</Script>
+        <Script>Zebrina:Workshop:Objects:OverdueBookVendorPrizeItem</Script>
+        <Script>Zebrina:Workshop:Objects:OverdueBookVendorScript</Script>
+        <Script>Zebrina:Workshop:Objects:PaintMixerScript</Script>
+        <Script>Zebrina:Workshop:Objects:PoweredDoorLockScript</Script>
+        <Script>Zebrina:Workshop:Objects:PoweredTwoStateActivator</Script>
+        <Script>Zebrina:Workshop:Objects:PowerLiftCallButtonScript</Script>
+        <Script>Zebrina:Workshop:Objects:PowerLiftMiniCartScript</Script>
+        <Script>Zebrina:Workshop:Objects:RemoteTwoStateActivator</Script>
+        <Script>Zebrina:Workshop:Objects:RestrictedDoorOpenScript</Script>
+        <Script>Zebrina:Workshop:Objects:ScrappableActorScript</Script>
+        <Script>Zebrina:Workshop:Objects:SwitchButtonScript</Script>
+        <Script>Zebrina:Workshop:Objects:WorkshopHopperScript</Script>
+        <Script>Zebrina:Workshop:Objects:WorkshopObjectNoPlayerCommentScript</Script>
+        <Script>Zebrina:Workshop:Objects:WorkshopPersonalStorageDeviceActivator</Script>
+        <Script>Zebrina:Workshop:Objects:WorkshopRecyclerScript</Script>
+    </Scripts>
+</PapyrusProject>

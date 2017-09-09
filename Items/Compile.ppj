@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<PapyrusProject xmlns="PapyrusProject.xsd"
+    Flags="Institute_Papyrus_Flags.flg"
+    Output="C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts"
+    Optimize="true"
+    Release="true"
+    Final="true"
+>
+    <Imports>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\User</Import>
+        <Import>C:\Games\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\Base</Import>
+    </Imports>
+    <Folders>
+        <Folder>Zebrina\Items</Folder>
+    </Folders>
+    <Scripts>
+        <Script>Zebrina:Items:DynamicModScript</Script>
+        <Script>Zebrina:Items:SilenceableGunScript</Script>
+    </Scripts>
+</PapyrusProject>
